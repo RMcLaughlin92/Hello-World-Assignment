@@ -1,0 +1,3 @@
+# Input Name v.0.1 - Collect user name via input command and assign to variable "name".
+
+name = input ("What is your name?")
